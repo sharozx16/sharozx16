@@ -10,7 +10,9 @@
 <a href="https://twitter.com/sharozhk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://linkedin/in/shahrozkhan20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://medium.com/@shahrozkhan20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="" height="30" width="40" /></a>
+  ![](https://visitor-badge.glitch.me/badge?page_id=sharozx16)
 </p>
+
 <!--
 **sharozx16/sharozx16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
