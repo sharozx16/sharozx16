@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Shahroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharozx16&show_icons=true&theme=tokyonight)](https://github.com/sharozx16/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sharozx16&repo=github-readme-stats)](https://github.com/sharozx16/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sharozx16&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sharozx16/sharozx16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
