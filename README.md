@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharozx16&show_icons=true&theme=tokyonight&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+![](https://visitor-badge.glitch.me/badge?page_id=sharozx16)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
