@@ -3,6 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharozx16&show_icons=true&theme=tokyonight&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/sharozhk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
